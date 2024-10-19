@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm a Passionate Front-end Developer and interested into Web Technologies.
+- 🤔 &nbsp; I'm a Software Developer .
 - 🎓 &nbsp; I did my Bachelors in Computer Science and Engineering.
 - 🌱 &nbsp; Learning more Web Technologies to become a FullStack Developer and looking forward towards Blockchain.
 
