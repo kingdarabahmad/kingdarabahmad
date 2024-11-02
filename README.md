@@ -29,6 +29,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
+[![An image of @kingdarabahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kingdarabahmad)](https://holopin.io/@kingdarabahmad)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
